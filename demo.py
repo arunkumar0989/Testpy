@@ -1,1 +1,4 @@
-print("Hello World !")
+import os
+import platform
+print(platform.system())
+
